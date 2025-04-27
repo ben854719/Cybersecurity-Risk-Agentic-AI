@@ -7,5 +7,6 @@ The project aims to showcase the risks of Agentic AI in cybersecurity. Agentic A
 Computer skills: Langgraph and Gemini.
 
 Reference:
--	Coaching AI agents: Why your next security hire might be an algorithm.
+
+- Coaching AI agents: Why your next security hire might be an algorithm.
 
