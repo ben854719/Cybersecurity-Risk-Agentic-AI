@@ -1,15 +1,26 @@
-Project: Cybersecurity Risk Agentic AI.
+Cybersecurity Risk: Agentic AI
 
-Summary:
+Overview:
 
-The project aims to demonstrate the risks of Agentic AI in cybersecurity. Agentic AI, a sophisticated form of LLM technology, will be illustrated using Langgraph and Gemini to extract and analyze data from the document titled "Coaching AI Agents: Why your next security hire might be an algorithm". The project will present both the strengths and limitations of Agentic AI.
+This project explores the risks associated with Agentic AI in cybersecurity. Using Langgraph and Gemini, we analyze how Agentic AI extracts and processes information from the document "Coaching AI Agents: Why Your Next Security Hire Might Be an Algorithm." The project highlights both the strengths and limitations of this AI-driven approach.
+hire might be an algorithm.
 
-One advantage of Agentic AI is its ability to summarize any document from the web or a PDF very efficiently in a few sentences. A limitation of Agentic AI is that it still requires human involvement to verify coding and properly implement steps in applications to ensure the chatbot functions correctly.
+Key Takeaways:
 
+- Efficiency: Agentic AI excels at summarizing web documents and PDFs in just a few sentences, making information retrieval seamless.
+- Human Oversight: Despite its capabilities, Agentic AI still requires human intervention for code verification and proper application integration to ensure accuracy and reliability.
 
-Computer skills: Langgraph and Gemini.
+Technologies Used:
 
-Reference:
+- Langgraph – Enables structured workflows and dynamic decision-making for AI-driven cybersecurity analysis.
+- Gemini – Provides powerful AI-assisted data extraction and insight generation.
 
-- Coaching AI agents: Why your next security hire might be an algorithm.
+Reference Material:
+
+- Coaching AI Agents: Why Your Next Security Hire Might Be an Algorithm
+
+Next Steps:
+
+- Investigate real-world applications and vulnerabilities of Agentic AI in cybersecurity.
+- Develop a framework for mitigating risks associated with autonomous AI in security tasks.
 
