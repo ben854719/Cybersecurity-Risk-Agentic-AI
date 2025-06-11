@@ -19,8 +19,3 @@ hire might be an algorithm.
 
 - Coaching AI Agents: Why Your Next Security Hire Might Be an Algorithm
 
-## Next Steps:
-
-- Investigate real-world applications and vulnerabilities of Agentic AI in cybersecurity.
-- Develop a framework for mitigating risks associated with autonomous AI in security tasks.
-
